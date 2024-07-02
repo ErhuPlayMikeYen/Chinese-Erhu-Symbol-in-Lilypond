@@ -2,9 +2,12 @@
 ##How to use?
   1. Install "ChineseMusicSymbol-Regular.otf"
   2. Copy "ChineseSymbol.ily" to your Lilypond project or use '\incude'
+     
 ##Command
+
 ###Glissando
-  上滑音'\upGliss'
+
+  上滑音'\upGliss'\
   下滑音'\downGliss'
   上滑音(直)'\upstGliss'
   下滑音(直) '\downstGliss'
