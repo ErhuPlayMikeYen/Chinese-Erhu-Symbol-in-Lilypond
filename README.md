@@ -14,6 +14,8 @@
   上滑音(曲線) '\upcuGliss'\
   下滑音(曲線) '\downcuGliss'\
   墊指滑音 '\danGliss'\
-## Fingering
+### Fingering
   ' \override Fingering.font-name = "Chinese Music Symbol \
-     \override Fingering.font-size = #-1'
+     \override Fingering.font-size = #-1' \
+
+     (-5 for "外"ㄝ, -6 for "內", -0 for "空" )
